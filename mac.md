@@ -17,4 +17,4 @@ Now that you are all set up, it's time to learn a little more about the tools of
 7. What is a merge conflict?
     Merge conflicts happen when you merge branches that have competing commits.
 8. How do you resolve a merge conflict?
-    By choosing which changes to incorporate in the final merge
+    By choosing which changes to incorporate in the final merge 
